@@ -1,2 +1,6 @@
-# 12P-KNN-Projects___r21
-KNN | Projects | Scikit Learn | ML
+# Projects:
+
+---
+
+### 1) Project1:
+  - Heart Attack Prediction
